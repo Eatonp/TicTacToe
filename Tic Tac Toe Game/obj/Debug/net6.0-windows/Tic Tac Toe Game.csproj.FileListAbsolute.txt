@@ -1,0 +1,16 @@
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.exe
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.deps.json
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.runtimeconfig.json
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.dll
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic_Tac_Toe_Game.Form1.resources
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.GenerateResource.cache
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfoInputs.cache
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfo.cs
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.dll
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\refint\Tic Tac Toe Game.dll
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.genruntimeconfig.cache
+F:\Dev Projects\Tic Tac Toe\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\ref\Tic Tac Toe Game.dll
